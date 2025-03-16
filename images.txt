@@ -1,1 +1,1 @@
-wyvern/vpn
+rabbitmq
