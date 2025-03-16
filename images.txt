@@ -1,1 +1,1 @@
-ssgssg/seata
+openjdk
