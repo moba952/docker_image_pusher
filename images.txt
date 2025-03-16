@@ -1,1 +1,1 @@
-logstash/logstash
+bitnamicharts/logstash
