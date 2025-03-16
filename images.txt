@@ -1,1 +1,1 @@
-vulhub/dubbo
+vulhub/nacos
