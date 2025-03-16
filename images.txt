@@ -1,1 +1,1 @@
-library/elasticsearch
+elasticsearch/latest
