@@ -1,1 +1,2 @@
-elasticsearch:7.9.3
+apache/skywalking-oap-server:8.5.0-es7
+apache/skywalking-ui:8.5.0
