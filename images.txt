@@ -1,1 +1,1 @@
-docker.io/macintoshplus/rabbitmq-management
+bladex/sentinel-dashboard
