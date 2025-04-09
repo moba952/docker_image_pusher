@@ -1,1 +1,1 @@
-bladex/sentinel-dashboard
+elasticsearch:7.9.3
